@@ -19,7 +19,7 @@ class _HemmaState extends State<Hemma> {
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: false,
-        title: const Text('TIG333 To DO'),
+        title: const Text('To DO'),
         iconTheme: IconThemeData(color: Colors.black),
         titleTextStyle: TextStyle(
             color: Colors.black, fontSize: 25, fontWeight: FontWeight.w500),
