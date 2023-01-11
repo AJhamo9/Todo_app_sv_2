@@ -10,7 +10,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class DataFetcher with ChangeNotifier {
-  static String url_key = "key=875c02ff-b0b8-41e0-b7f9-53f951704372";
+  static String url_key = "key=1c10b6e7-0c81-46e2-97f8-1464dab1e6cd";
 
   static Future<List<minuppgift>?> getNotes(bool? doneList) async {
     List<minuppgift> notes = [];
