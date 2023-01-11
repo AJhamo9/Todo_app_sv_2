@@ -43,7 +43,7 @@ class _uppgiftState extends State<uppgift> {
             setState(() {});
           }),
         ),
-        title: const Text('TIG333 Att Göra'),
+        title: const Text('To do'),
         titleTextStyle: TextStyle(
             color: Colors.black, fontSize: 25, fontWeight: FontWeight.w500),
         automaticallyImplyLeading: false,
